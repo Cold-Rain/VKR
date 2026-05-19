@@ -1,0 +1,39 @@
+{
+  "raw_records": 1204,
+  "filtered_records": 858,
+  "language_filter": "English",
+  "language_summary": [
+    {
+      "language": "English",
+      "records": 904
+    },
+    {
+      "language": "Arabic",
+      "records": 262
+    },
+    {
+      "language": "Chinese",
+      "records": 19
+    },
+    {
+      "language": "Hindi",
+      "records": 11
+    },
+    {
+      "language": "Urdu",
+      "records": 5
+    },
+    {
+      "language": "Spanish",
+      "records": 1
+    },
+    {
+      "language": "German",
+      "records": 1
+    },
+    {
+      "language": "Persian",
+      "records": 1
+    }
+  ]
+}

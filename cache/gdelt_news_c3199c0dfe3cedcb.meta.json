@@ -1,0 +1,23 @@
+{
+  "raw_records": 72,
+  "filtered_records": 49,
+  "language_filter": "English",
+  "language_summary": [
+    {
+      "language": "English",
+      "records": 49
+    },
+    {
+      "language": "Arabic",
+      "records": 21
+    },
+    {
+      "language": "Chinese",
+      "records": 1
+    },
+    {
+      "language": "Hindi",
+      "records": 1
+    }
+  ]
+}

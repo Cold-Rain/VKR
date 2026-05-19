@@ -1,0 +1,492 @@
+[
+  {
+    "news_id": "n00000",
+    "title": "Short - Term Energy Outlook - U . S . Energy Information Administration ( EIA )",
+    "url": "https://www.eia.gov/outlooks/steo/report/supplements.php",
+    "domain": "eia.gov",
+    "source_country": "United States",
+    "language": "English",
+    "seendate": "20230111T214500Z",
+    "date": "2023-01-11 00:00:00"
+  },
+  {
+    "news_id": "n00001",
+    "title": "Crude Oil Futures Settle Sharply Lower",
+    "url": "https://www.finanznachrichten.de/nachrichten-2023-02/58229340-crude-oil-futures-settle-sharply-lower-020.htm",
+    "domain": "finanznachrichten.de",
+    "source_country": "Germany",
+    "language": "English",
+    "seendate": "20230203T213000Z",
+    "date": "2023-02-03 00:00:00"
+  },
+  {
+    "news_id": "n00002",
+    "title": "Oil Falls More Than 1 % As Growth Fears Offset China Demand Hopes",
+    "url": "https://www.ibtimes.com/oil-falls-more-1-growth-fears-offset-china-demand-hopes-3670205",
+    "domain": "ibtimes.com",
+    "source_country": "United States",
+    "language": "English",
+    "seendate": "20230221T213000Z",
+    "date": "2023-02-21 00:00:00"
+  },
+  {
+    "news_id": "n00003",
+    "title": "Oil falls more than 1 % as growth fears offset China demand hopes",
+    "url": "https://www.ibtimes.co.uk/oil-falls-more-1-growth-fears-offset-china-demand-hopes-1713166",
+    "domain": "ibtimes.co.uk",
+    "source_country": "United Kingdom",
+    "language": "English",
+    "seendate": "20230222T031500Z",
+    "date": "2023-02-22 00:00:00"
+  },
+  {
+    "news_id": "n00004",
+    "title": "Saudi Aramco Reports Record Profit as Fossil Fuels Remain  Essential",
+    "url": "https://www.nytimes.com/2023/03/12/business/saudi-aramco-record-earnings-profit.html",
+    "domain": "nytimes.com",
+    "source_country": "United States",
+    "language": "English",
+    "seendate": "20230312T104500Z",
+    "date": "2023-03-12 00:00:00"
+  },
+  {
+    "news_id": "n00005",
+    "title": "Oil gaps down on global trade fears , US Dollar supports",
+    "url": "https://www.fxstreet.com/news/oil-price-gaps-down-on-global-trade-fears-us-dollar-cushions-fall-202305221227",
+    "domain": "fxstreet.com",
+    "source_country": "China",
+    "language": "English",
+    "seendate": "20230522T160000Z",
+    "date": "2023-05-22 00:00:00"
+  },
+  {
+    "news_id": "n00006",
+    "title": "Oil Updates crude slips on US debt ceiling struggles",
+    "url": "https://www.arabnews.com/node/2312741/business-economy",
+    "domain": "arabnews.com",
+    "source_country": "Saudi Arabia",
+    "language": "English",
+    "seendate": "20230530T090000Z",
+    "date": "2023-05-30 00:00:00"
+  },
+  {
+    "news_id": "n00007",
+    "title": "News Highlights : Top Energy News of the Day",
+    "url": "https://www.marketscreener.com/quote/commodity/BRENT-OIL-4948/news/News-Highlights-Top-Energy-News-of-the-Day-44020557/",
+    "domain": "marketscreener.com",
+    "source_country": "",
+    "language": "English",
+    "seendate": "20230602T050000Z",
+    "date": "2023-06-02 00:00:00"
+  },
+  {
+    "news_id": "n00008",
+    "title": "Baystreet . ca - OPEC+ Cut Output , So Why is Crude Oil Still Plunging ?",
+    "url": "http://baystreet.ca/articles/commodities/88272/OPEC-Cut-Output-So-Why-is-Crude-Oil-Still-Plunging",
+    "domain": "baystreet.ca",
+    "source_country": "Canada",
+    "language": "English",
+    "seendate": "20230613T000000Z",
+    "date": "2023-06-13 00:00:00"
+  },
+  {
+    "news_id": "n00009",
+    "title": "Opec : Oil prices come off earlier gains as banks cut China growth forecasts , ET Auto",
+    "url": "https://auto.economictimes.indiatimes.com/news/oil-and-lubes/oil-prices-come-off-earlier-gains-as-banks-cut-china-growth-forecasts/101092927",
+    "domain": "auto.economictimes.indiatimes.com",
+    "source_country": "India",
+    "language": "English",
+    "seendate": "20230619T063000Z",
+    "date": "2023-06-19 00:00:00"
+  },
+  {
+    "news_id": "n00010",
+    "title": "china : Oil prices come off earlier gains as banks cut China growth forecasts",
+    "url": "https://economictimes.indiatimes.com/markets/commodities/views/oil-prices-come-off-earlier-gains-as-banks-cut-china-growth-forecasts/articleshow/101093080.cms",
+    "domain": "economictimes.indiatimes.com",
+    "source_country": "India",
+    "language": "English",
+    "seendate": "20230619T030000Z",
+    "date": "2023-06-19 00:00:00"
+  },
+  {
+    "news_id": "n00011",
+    "title": "EIA forecasts oil prices to rise well into 2024",
+    "url": "https://www.albawaba.com/business/eia-forecasts-oil-prices-rise-well-2024-1526298",
+    "domain": "albawaba.com",
+    "source_country": "Israel",
+    "language": "English",
+    "seendate": "20230712T101500Z",
+    "date": "2023-07-12 00:00:00"
+  },
+  {
+    "news_id": "n00012",
+    "title": "Oil Posts First Weekly Loss in 2 Months",
+    "url": "https://menafn.com/1106895517/Oil-Posts-First-Weekly-Loss-in-2-Months",
+    "domain": "menafn.com",
+    "source_country": "Qatar",
+    "language": "English",
+    "seendate": "20230819T181500Z",
+    "date": "2023-08-19 00:00:00"
+  },
+  {
+    "news_id": "n00013",
+    "title": "Oil seven - week rising streak at risk",
+    "url": "https://tribune.com.pk/story/2431380/oils-seven-week-rising-streak-at-risk",
+    "domain": "tribune.com.pk",
+    "source_country": "Pakistan",
+    "language": "English",
+    "seendate": "20230819T094500Z",
+    "date": "2023-08-19 00:00:00"
+  },
+  {
+    "news_id": "n00014",
+    "title": "Oil Posts First Weekly Loss In Two Months",
+    "url": "https://menafn.com/1106897171/Oil-Posts-First-Weekly-Loss-In-Two-Months",
+    "domain": "menafn.com",
+    "source_country": "Qatar",
+    "language": "English",
+    "seendate": "20230820T093000Z",
+    "date": "2023-08-20 00:00:00"
+  },
+  {
+    "news_id": "n00015",
+    "title": "crude oil | The Epoch Times",
+    "url": "https://www.theepochtimes.com/tag/crude-oil",
+    "domain": "theepochtimes.com",
+    "source_country": "United States",
+    "language": "English",
+    "seendate": "20230905T164500Z",
+    "date": "2023-09-05 00:00:00"
+  },
+  {
+    "news_id": "n00016",
+    "title": "Petroleum Minister Puri urges OPEC toinfuse sense of affordability in oil markets amid rising crude prices",
+    "url": "https://www.asiabulletin.com/news/273988010/petroleum-minister-puri-urges-opec-toinfuse-sense-of-affordability-in-oil-markets-amid-rising-crude-prices",
+    "domain": "asiabulletin.com",
+    "source_country": "China",
+    "language": "English",
+    "seendate": "20231004T044500Z",
+    "date": "2023-10-04 00:00:00"
+  },
+  {
+    "news_id": "n00017",
+    "title": "Petroleum Minister Puri urges OPEC to infuse sense of affordability in oil markets amid rising crude prices",
+    "url": "http://aninews.in/news/national/general-news/petroleum-minister-puri-urges-opec-to-infuse-sense-of-affordability-in-oil-markets-amid-rising-crude-prices20231004084451/",
+    "domain": "aninews.in",
+    "source_country": "India",
+    "language": "English",
+    "seendate": "20231004T063000Z",
+    "date": "2023-10-04 00:00:00"
+  },
+  {
+    "news_id": "n00018",
+    "title": "Oil Prices Dip As OPEC+ Showdown Over African Quota Dispute Fuels Market Uncertainty",
+    "url": "https://markets.businessinsider.com/news/etf/oil-prices-dip-as-opec+-showdown-over-african-quota-dispute-fuels-market-uncertainty-1032851193",
+    "domain": "markets.businessinsider.com",
+    "source_country": "United States",
+    "language": "English",
+    "seendate": "20231127T144500Z",
+    "date": "2023-11-27 00:00:00"
+  },
+  {
+    "news_id": "n00019",
+    "title": "Oil Prices Dip As OPEC+ Showdown Over African Quota Dispute Fuels Market Uncertainty - United States Oil Fund ( ARCA : USO ), First Trust Natural Gas ETF ( ARCA : FCG )",
+    "url": "https://www.benzinga.com/news/23/11/35957561/oil-prices-dip-as-opec-showdown-over-african-quota-dispute-fuels-market-uncertainty",
+    "domain": "benzinga.com",
+    "source_country": "United States",
+    "language": "English",
+    "seendate": "20231127T170000Z",
+    "date": "2023-11-27 00:00:00"
+  },
+  {
+    "news_id": "n00020",
+    "title": "Energy prices require to remain stable and predictable : Oil Minister Puri",
+    "url": "https://www.moneycontrol.com/news/business/commodities/energy-prices-require-to-remain-stable-and-predictable-oil-minister-puri-11844401.html",
+    "domain": "moneycontrol.com",
+    "source_country": "India",
+    "language": "English",
+    "seendate": "20231202T151500Z",
+    "date": "2023-12-02 00:00:00"
+  },
+  {
+    "news_id": "n00021",
+    "title": "Oil plunge at year end : Unprecedented in 3 Years – What behind the sharp drop ?",
+    "url": "https://www.albawaba.com/business/oil-plunge-years-end-unprecedented-3-years-%E2%80%93-whats-behind-sharp-drop-1546916",
+    "domain": "albawaba.com",
+    "source_country": "Israel",
+    "language": "English",
+    "seendate": "20231229T133000Z",
+    "date": "2023-12-29 00:00:00"
+  },
+  {
+    "news_id": "n00022",
+    "title": "Surging American Exports Keep Oil and Gas Prices in Check",
+    "url": "https://oilprice.com/Energy/Energy-General/Surging-American-Exports-Keep-Oil-and-Gas-Prices-in-Check.html",
+    "domain": "oilprice.com",
+    "source_country": "United States",
+    "language": "English",
+    "seendate": "20240103T154500Z",
+    "date": "2024-01-03 00:00:00"
+  },
+  {
+    "news_id": "n00023",
+    "title": "Citi Cuts Brent Oil Price Forecast to $74 in 2024 on Ample Supply",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Citi-Cuts-Brent-Oil-Price-Forecast-to-74-in-2024-on-Ample-Supply.html",
+    "domain": "oilprice.com",
+    "source_country": "United States",
+    "language": "English",
+    "seendate": "20240112T170000Z",
+    "date": "2024-01-12 00:00:00"
+  },
+  {
+    "news_id": "n00024",
+    "title": "Opec+ unlikely to decide oil policy on February 1 , will wait several weeks",
+    "url": "https://www.business-standard.com/world-news/opec-unlikely-to-decide-oil-policy-on-february-1-will-wait-several-weeks-124012600631_1.html",
+    "domain": "business-standard.com",
+    "source_country": "India",
+    "language": "English",
+    "seendate": "20240126T131500Z",
+    "date": "2024-01-26 00:00:00"
+  },
+  {
+    "news_id": "n00025",
+    "title": "Oil Prices Rise Over 1 % As OPEC+ Decision Looms Amid Geopolitical Strain",
+    "url": "https://www.ibtimes.com/oil-prices-rise-over-1-opec-decision-looms-amid-geopolitical-strain-3726046",
+    "domain": "ibtimes.com",
+    "source_country": "United States",
+    "language": "English",
+    "seendate": "20240301T153000Z",
+    "date": "2024-03-01 00:00:00"
+  },
+  {
+    "news_id": "n00026",
+    "title": "Commodity markets saw slight upward trend last week",
+    "url": "https://www.yenisafak.com/en/news/commodity-markets-saw-slight-upward-trend-last-week-3678594",
+    "domain": "yenisafak.com",
+    "source_country": "Turkey",
+    "language": "English",
+    "seendate": "20240304T110000Z",
+    "date": "2024-03-04 00:00:00"
+  },
+  {
+    "news_id": "n00027",
+    "title": "Oil Update : Russia - Ukraine War Targets Energy Infrastructure",
+    "url": "https://www.dailyfx.com/news/oil-update-russia-ukraine-war-targets-energy-infrastructure-20240322.html",
+    "domain": "dailyfx.com",
+    "source_country": "China",
+    "language": "English",
+    "seendate": "20240322T143000Z",
+    "date": "2024-03-22 00:00:00"
+  },
+  {
+    "news_id": "n00028",
+    "title": "Q3 crude oil price outlook raised at Morgan Stanley on rising geopolitical risk",
+    "url": "https://seekingalpha.com/news/4088424-q3-crude-oil-price-outlook-raised-at-morgan-stanley-on-rising-geopolitical-risk",
+    "domain": "seekingalpha.com",
+    "source_country": "United States",
+    "language": "English",
+    "seendate": "20240410T011500Z",
+    "date": "2024-04-10 00:00:00"
+  },
+  {
+    "news_id": "n00029",
+    "title": "Markets brace for oil to hit $100 as Saudi slashes production",
+    "url": "https://finance.yahoo.com/news/markets-brace-oil-hit-100-112003857.html",
+    "domain": "finance.yahoo.com",
+    "source_country": "United States",
+    "language": "English",
+    "seendate": "20240413T121500Z",
+    "date": "2024-04-13 00:00:00"
+  },
+  {
+    "news_id": "n00030",
+    "title": "Oil prices projected to average $84 in 2024 – World Bank",
+    "url": "https://www.myjoyonline.com/oil-prices-projected-to-average-84-in-2024-world-bank/",
+    "domain": "myjoyonline.com",
+    "source_country": "Ghana",
+    "language": "English",
+    "seendate": "20240425T210000Z",
+    "date": "2024-04-25 00:00:00"
+  },
+  {
+    "news_id": "n00031",
+    "title": "U . S . puts 1M - barrel northeast gasoline reserve up for sale ( NYSEARCA : USO )",
+    "url": "https://seekingalpha.com/news/4109106-us-puts-1m-barrel-northeast-gasoline-reserve-up-for-sale",
+    "domain": "seekingalpha.com",
+    "source_country": "United States",
+    "language": "English",
+    "seendate": "20240522T001500Z",
+    "date": "2024-05-22 00:00:00"
+  },
+  {
+    "news_id": "n00032",
+    "title": "Goldman Sachs hikes oil demand outlook , sees peak at least a decade away ( NYSEARCA : USO )",
+    "url": "https://seekingalpha.com/news/4110967-goldman-sachs-hikes-oil-demand-outlook-sees-peak-at-least-a-decade-away",
+    "domain": "seekingalpha.com",
+    "source_country": "United States",
+    "language": "English",
+    "seendate": "20240529T000000Z",
+    "date": "2024-05-29 00:00:00"
+  },
+  {
+    "news_id": "n00033",
+    "title": "Morgan Stanley sees crude boost this summer but supply surpluses into 2025 ( NYSEARCA : USO )",
+    "url": "https://seekingalpha.com/news/4115013-morgan-stanley-sees-crude-boost-this-summer-but-supply-surpluses-into-2025",
+    "domain": "seekingalpha.com",
+    "source_country": "United States",
+    "language": "English",
+    "seendate": "20240612T011500Z",
+    "date": "2024-06-12 00:00:00"
+  },
+  {
+    "news_id": "n00034",
+    "title": "Oil prices to stay steady as China demand woes offset Mideast risks - Reuters poll",
+    "url": "https://finance.yahoo.com/news/oil-prices-stay-steady-china-110819777.html",
+    "domain": "finance.yahoo.com",
+    "source_country": "United States",
+    "language": "English",
+    "seendate": "20240628T120000Z",
+    "date": "2024-06-28 00:00:00"
+  },
+  {
+    "news_id": "n00035",
+    "title": "Oil maintains stability amid concerns over Chinese demand ; brent crude at $85 . 06 / bbl",
+    "url": "https://www.livemint.com/market/commodities/oil-maintains-stability-amid-concerns-over-chinese-demand-brent-crude-at-8506bbl-11721058460546.html",
+    "domain": "livemint.com",
+    "source_country": "India",
+    "language": "English",
+    "seendate": "20240715T173000Z",
+    "date": "2024-07-15 00:00:00"
+  },
+  {
+    "news_id": "n00036",
+    "title": "US oil production just hit a record high",
+    "url": "https://finance.yahoo.com/news/us-oil-production-just-hit-042128071.html",
+    "domain": "finance.yahoo.com",
+    "source_country": "United States",
+    "language": "English",
+    "seendate": "20240808T044500Z",
+    "date": "2024-08-08 00:00:00"
+  },
+  {
+    "news_id": "n00037",
+    "title": "Page 302 of 15 - Page 302 of 400 - Page 302 - News from JayarajSivan",
+    "url": "https://energy.economictimes.indiatimes.com/agency/87654322/JayarajSivan/302",
+    "domain": "energy.economictimes.indiatimes.com",
+    "source_country": "India",
+    "language": "English",
+    "seendate": "20240818T134500Z",
+    "date": "2024-08-18 00:00:00"
+  },
+  {
+    "news_id": "n00038",
+    "title": "Citi says Brent crude oil could fall as low as $50 / barrel",
+    "url": "https://www.forexlive.com/news/citi-says-brent-crude-oil-could-fall-as-low-as-50-barrel-20240904/",
+    "domain": "forexlive.com",
+    "source_country": "Greece",
+    "language": "English",
+    "seendate": "20240904T214500Z",
+    "date": "2024-09-04 00:00:00"
+  },
+  {
+    "news_id": "n00039",
+    "title": "Brent crude lowest since June ; Citi sees $60 / bbl in 2025 without deeper OPEC cuts",
+    "url": "https://seekingalpha.com/news/4147110-brent-crude-lowest-since-june-citi-sees-60bbl-in-2025-without-deeper-opec-cuts",
+    "domain": "seekingalpha.com",
+    "source_country": "United States",
+    "language": "English",
+    "seendate": "20240905T014500Z",
+    "date": "2024-09-05 00:00:00"
+  },
+  {
+    "news_id": "n00040",
+    "title": "Oil recovers 3 % from 33 - month low after Hurricane Francine instils supply fears ; Brent at $71 , WTI gains over $2",
+    "url": "https://www.livemint.com/market/commodities/oil-recovers-3-from-33-month-low-after-hurricane-francine-instils-supply-fears-brent-at-71-wti-gains-over-2-11726075340440.html",
+    "domain": "livemint.com",
+    "source_country": "India",
+    "language": "English",
+    "seendate": "20240911T193000Z",
+    "date": "2024-09-11 00:00:00"
+  },
+  {
+    "news_id": "n00041",
+    "title": "Prabhudas Lilladher sees oil price rebound to $75 - 80 / bbl , upgrades ONGC and OIL ratings to  buy",
+    "url": "https://www.livemint.com/market/commodities/prabhudas-lilladher-sees-oil-price-rebound-to-75-80-bbl-upgrades-ongc-and-oil-ratings-to-buy-11726467281929.html",
+    "domain": "livemint.com",
+    "source_country": "India",
+    "language": "English",
+    "seendate": "20240916T073000Z",
+    "date": "2024-09-16 00:00:00"
+  },
+  {
+    "news_id": "n00042",
+    "title": "EIA : Permian Crude Output Set for Slower Growth in 2025",
+    "url": "https://oilprice.com/Energy/Crude-Oil/EIA-Permian-Crude-Output-Set-for-Slower-Growth-in-2025.html",
+    "domain": "oilprice.com",
+    "source_country": "United States",
+    "language": "English",
+    "seendate": "20241015T004500Z",
+    "date": "2024-10-15 00:00:00"
+  },
+  {
+    "news_id": "n00043",
+    "title": "Oil slips as US storm threat eases , China stimulus disappoints",
+    "url": "https://www.moneycontrol.com/news/business/oil-slips-as-us-storm-threat-eases-china-stimulus-disappoints-12862434.html",
+    "domain": "moneycontrol.com",
+    "source_country": "India",
+    "language": "English",
+    "seendate": "20241111T041500Z",
+    "date": "2024-11-11 00:00:00"
+  },
+  {
+    "news_id": "n00044",
+    "title": "Oil prices hit as Trump signals increasing support for more drilling",
+    "url": "https://www.euronews.com/business/2024/11/12/oil-prices-hit-as-trump-signals-increasing-support-for-more-drilling",
+    "domain": "euronews.com",
+    "source_country": "United States",
+    "language": "English",
+    "seendate": "20241112T143000Z",
+    "date": "2024-11-12 00:00:00"
+  },
+  {
+    "news_id": "n00045",
+    "title": "Crude Oil ticks up after possible early breach of ceasefire deal by Israel",
+    "url": "https://www.fxstreet.com/news/crude-oil-steady-after-biden-calls-gaza-ceasefire-permanent-202411281139",
+    "domain": "fxstreet.com",
+    "source_country": "China",
+    "language": "English",
+    "seendate": "20241128T140000Z",
+    "date": "2024-11-28 00:00:00"
+  },
+  {
+    "news_id": "n00046",
+    "title": "Crude Oil consolidates ahead of OPEC+ meetings with firm discussion to be had on supply normalization",
+    "url": "https://www.fxstreet.com/news/crude-oil-consolidates-as-traders-prepare-for-final-weeks-of-2024-202411291140",
+    "domain": "fxstreet.com",
+    "source_country": "China",
+    "language": "English",
+    "seendate": "20241129T134500Z",
+    "date": "2024-11-29 00:00:00"
+  },
+  {
+    "news_id": "n00047",
+    "title": "Global Energy Dynamics : Analyzing Oil and LNG Market Trends Amidst Supply Surpluses and Demand Fluctuations",
+    "url": "https://www.modernghana.com/news/1363875/global-energy-dynamics-analyzing-oil-and-lng-mark.html",
+    "domain": "modernghana.com",
+    "source_country": "Ghana",
+    "language": "English",
+    "seendate": "20241208T010000Z",
+    "date": "2024-12-08 00:00:00"
+  },
+  {
+    "news_id": "n00048",
+    "title": "Crude Oil faces near 2 % loss for this week with traders reducing hedges on Oil for 2025",
+    "url": "https://www.fxstreet.com/news/crude-oil-set-for-weekly-loss-as-fed-cuts-off-any-rally-attempt-202412201127",
+    "domain": "fxstreet.com",
+    "source_country": "China",
+    "language": "English",
+    "seendate": "20241220T144500Z",
+    "date": "2024-12-20 00:00:00"
+  }
+]

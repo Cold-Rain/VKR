@@ -1,0 +1,7 @@
+test,model_a,model_b,b,c,stat,p_value
+McNemar,LLM multi-agent hybrid,Market-only Ridge/LogReg,245.0,242.0,0.008213552361396304,0.9277876654933653
+Diebold-Mariano,LLM multi-agent hybrid,Market-only Ridge/LogReg,,,3.6822176488823626,0.00023121388197861554
+McNemar,LLM multi-agent hybrid,ARIMAX market,361.0,320.0,2.3494860499265786,0.1253243198018049
+Diebold-Mariano,LLM multi-agent hybrid,ARIMAX market,,,0.41690008897274494,0.6767514884680675
+McNemar,LLM multi-agent hybrid,ARIMAX simple news,356.0,319.0,1.92,0.16585666034290605
+Diebold-Mariano,LLM multi-agent hybrid,ARIMAX simple news,,,0.6486276879788884,0.5165790545066731
