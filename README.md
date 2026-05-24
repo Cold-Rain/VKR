@@ -15,8 +15,7 @@ python3 -m venv .venv
 ```
 
 Prefer passing the Model Studio key through `DASHSCOPE_API_KEY`. A local secret
-file can be supplied via `--api-key-file`, but it must not be included in the
-submitted archive.
+file can be supplied via `--api-key-file`.
 
 
 
