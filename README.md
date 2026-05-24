@@ -14,8 +14,7 @@ python3 -m venv .venv
   --auditor-model qwen3-max
 ```
 
-Prefer passing the Model Studio key through `DASHSCOPE_API_KEY`. A local secret
-file can be supplied via `--api-key-file`.
+
 
 
 
